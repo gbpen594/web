@@ -11,7 +11,6 @@
     display: flex;
     width: 100%;
     min-height: 600px;
-    padding: 40px;
     background: rgba(255, 255, 255, 0.1);
     overflow: hidden;
 }
@@ -1018,9 +1017,6 @@ body.disable-scroll {
         flex-shrink: 0;
     }
 
-    .game-main {
-        padding: 20px;
-    }
 
     .game-wrap {
         padding: 20px;
@@ -1033,9 +1029,6 @@ body.disable-scroll {
         margin-top: 54px;
     }
 
-    .game-main {
-        padding: 15px;
-    }
 
     .game-wrap {
         padding: 15px;
