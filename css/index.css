@@ -1060,6 +1060,7 @@ body.disable-scroll {
     }
 }
 
+
 @media (max-width: 575.98px) {
     .avatar-wrap .avatar {
         width: 200px;
